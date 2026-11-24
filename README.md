@@ -1,8 +1,8 @@
 # Token Radar — radar-4
 
-[![token-radar-01](https://img.shields.io/badge/competition-token--radar--01-blue)](https://make.fun/c/token-radar-01)
-[![model](https://img.shields.io/badge/model-radar--4-amber)](https://make.fun/c/token-radar-01)
-[![judge score](https://img.shields.io/badge/judge%20score-dev%2093.57%25-lightgrey)](https://make.fun/c/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/robiyal/token-radar-01-entry/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/robiyal/token-radar-01-entry/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 Token Radar ranks every pre-token protocol in a DefiLlama snapshot by what its
 token would be worth if it launched at the multiple the market already pays
